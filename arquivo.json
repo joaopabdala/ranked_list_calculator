@@ -1,0 +1,2643 @@
+[
+    {
+        "_id": "678801efc2f7b68412fb95a9",
+        "voter_name": "Lista by Jonathan",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "1  Sunrise  1927"
+            },
+            {
+                "rank": 2,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "2  Battleship Potemkin  1925"
+            },
+            {
+                "rank": 3,
+                "title": "A Girl in Every Port",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "Uma Noiva em Cada Porto",
+                "original_query": "3  A girl in every port  1928"
+            },
+            {
+                "rank": 4,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "4  O gabinete do Dr Caligari  1920"
+            },
+            {
+                "rank": 5,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "5  Nosferatu  1922"
+            },
+            {
+                "rank": 6,
+                "title": "Manhatta",
+                "year": 1921,
+                "original_language": "en",
+                "portuguese_title": "Manhatta",
+                "original_query": "6  Manhatta  1921"
+            },
+            {
+                "rank": 7,
+                "title": "Cops",
+                "year": 1922,
+                "original_language": "en",
+                "portuguese_title": "O Enrascado",
+                "original_query": "7  Cops  1922"
+            },
+            {
+                "rank": 8,
+                "title": "3 Bad Men",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "3 Bad Men",
+                "original_query": "8  3 Bad men  1926"
+            },
+            {
+                "rank": 9,
+                "title": "雄呂血",
+                "year": 1925,
+                "original_language": "ja",
+                "portuguese_title": "Serpent",
+                "original_query": "9  Serpent  1925"
+            }
+        ]
+    },
+    {
+        "_id": "678801f6c2f7b68412fb95aa",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "1  Man with a Movie Camera  1929"
+            },
+            {
+                "rank": 2,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "2  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 3,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "3  Sunrise: A Song of Two Humans  1927"
+            },
+            {
+                "rank": 4,
+                "title": "Steamboat Willie",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "O Vapor Willie",
+                "original_query": "4  Steamboat Willie  1928"
+            },
+            {
+                "rank": 5,
+                "title": "The General",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "A General",
+                "original_query": "5  The General  1926"
+            },
+            {
+                "rank": 6,
+                "title": "One Week",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Uma Semana",
+                "original_query": "6  One Week  1920"
+            },
+            {
+                "rank": 7,
+                "title": "The Kid",
+                "year": 1921,
+                "original_language": "en",
+                "portuguese_title": "O Garoto",
+                "original_query": "7  The Kid  1921"
+            },
+            {
+                "rank": 8,
+                "title": "Dreams of the Rarebit Fiend: The Flying House",
+                "year": 1921,
+                "original_language": "en",
+                "portuguese_title": "Dreams of the Rarebit Fiend: The Flying House",
+                "original_query": "8  Dreams of the Rarebit Fiend: The Flying House  1921"
+            },
+            {
+                "rank": 9,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "9  Nosferatu  1922"
+            },
+            {
+                "rank": 10,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "10  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 11,
+                "title": "München-Berlin Wanderung",
+                "year": 1927,
+                "original_language": "de",
+                "portuguese_title": "Walking from Munich to Berlin",
+                "original_query": "11  Walking from Munich to Berlin  1927"
+            }
+        ]
+    },
+    {
+        "_id": "678801fcc2f7b68412fb95ab",
+        "voter_name": "cristiano pompoarismo",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "The Cameraman",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "O Homem das Novidades",
+                "original_query": "1  the cameraman  1928"
+            },
+            {
+                "rank": 2,
+                "title": "The General",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "A General",
+                "original_query": "2  the general  1926"
+            },
+            {
+                "rank": 3,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "3  battleship potemkin  1925"
+            },
+            {
+                "rank": 4,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "4  the passion of joan of darc  1928"
+            },
+            {
+                "rank": 5,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "5  man with a movie camera  1929"
+            },
+            {
+                "rank": 6,
+                "title": "One Week",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Uma Semana",
+                "original_query": "6  one week  1920"
+            },
+            {
+                "rank": 7,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "7  faust  1926"
+            },
+            {
+                "rank": 8,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "8  sherlock jr  1924"
+            },
+            {
+                "rank": 9,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "9  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 10,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "10  sunrise  1927"
+            }
+        ]
+    },
+    {
+        "_id": "67880200c2f7b68412fb95ac",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "1  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 2,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "2  Um Homem com Uma Câmera  1929"
+            },
+            {
+                "rank": 3,
+                "title": "Стачка",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "A Greve",
+                "original_query": "3  Strike  1925"
+            },
+            {
+                "rank": 4,
+                "title": "Greed",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Ouro e Maldição",
+                "original_query": "4  Greed  1924"
+            },
+            {
+                "rank": 5,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "5  Aurora  1927"
+            },
+            {
+                "rank": 6,
+                "title": "Октябрь",
+                "year": 1928,
+                "original_language": "ru",
+                "portuguese_title": "Outubro",
+                "original_query": "6  October  1928"
+            }
+        ]
+    },
+    {
+        "_id": "67880206c2f7b68412fb95ad",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "1  The Passion of Joan of Arc  1928"
+            },
+            {
+                "rank": 2,
+                "title": "The Iron Horse",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "O Cavalo de Ferro",
+                "original_query": "2  Iron Horse  1924"
+            },
+            {
+                "rank": 3,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "3  The Man With a Movie Camera  1929"
+            },
+            {
+                "rank": 4,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "4  Battleship Potemkin  1925"
+            },
+            {
+                "rank": 5,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "5  Faust  1926"
+            },
+            {
+                "rank": 6,
+                "title": "Die Nibelungen: Siegfried",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "Os Nibelungos Parte 1: A Morte de Siegfried",
+                "original_query": "6  Die Nibelungen  1924"
+            },
+            {
+                "rank": 7,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "7  Sunrise  1927"
+            },
+            {
+                "rank": 8,
+                "title": "Spione",
+                "year": 1928,
+                "original_language": "de",
+                "portuguese_title": "Os Espiões",
+                "original_query": "8  Spies  1928"
+            },
+            {
+                "rank": 9,
+                "title": "Go West",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "O Vaqueiro",
+                "original_query": "9  Go West  1925"
+            },
+            {
+                "rank": 10,
+                "title": "In Old Arizona",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "In Old Arizona",
+                "original_query": "10  In Old Arizona  1928"
+            }
+        ]
+    },
+    {
+        "_id": "6788020cc2f7b68412fb95ae",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "1  Um Homem com uma Câmera  1929"
+            },
+            {
+                "rank": 2,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "2  Sunrise  1927"
+            },
+            {
+                "rank": 3,
+                "title": "Москва в Октябре",
+                "year": 1927,
+                "original_language": "ru",
+                "portuguese_title": "Moscow in October",
+                "original_query": "3  October  1927"
+            },
+            {
+                "rank": 4,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "4  O Encouraçado Potenkim  1925"
+            },
+            {
+                "rank": 5,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "5  Fausto  1926"
+            },
+            {
+                "rank": 6,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "6  A Paixão de Joana D'Arc  1928"
+            },
+            {
+                "rank": 7,
+                "title": "Greed",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Ouro e Maldição",
+                "original_query": "7  Greed  1924"
+            },
+            {
+                "rank": 8,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "8  As Duas Tormentas  1920"
+            },
+            {
+                "rank": 9,
+                "title": "Herr Tartüff",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Tartufo",
+                "original_query": "9  Tartufo  1926"
+            },
+            {
+                "rank": 10,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "10  Nosferatu  1922"
+            }
+        ]
+    },
+    {
+        "_id": "67880213c2f7b68412fb95af",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "1  Aurora  1927"
+            },
+            {
+                "rank": 2,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "2  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 3,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "3  Um Homem Com Uma Câmera  1929"
+            },
+            {
+                "rank": 4,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "4  A Paixão de Joana d'Arc  1928"
+            },
+            {
+                "rank": 5,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "5  A Carruagem Fantasma  1921"
+            },
+            {
+                "rank": 6,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "6  Um Cão Andaluz  1929"
+            },
+            {
+                "rank": 7,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "7  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 8,
+                "title": "Der letzte Mann",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "A Última Gargalhada",
+                "original_query": "8  A Última Gargalhada  1924"
+            },
+            {
+                "rank": 9,
+                "title": "狂った一頁",
+                "year": 1926,
+                "original_language": "ja",
+                "portuguese_title": "Uma Página de Loucura",
+                "original_query": "9  Uma Página de Loucura  1926"
+            },
+            {
+                "rank": 10,
+                "title": "Nanook of the North",
+                "year": 1922,
+                "original_language": "en",
+                "portuguese_title": "Nanook, o Esquimó",
+                "original_query": "10  Nanook, o Esquimó  1922"
+            }
+        ]
+    },
+    {
+        "_id": "67880219c2f7b68412fb95b0",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Thunderbolt",
+                "year": 1929,
+                "original_language": "en",
+                "portuguese_title": "Thunderbolt",
+                "original_query": "1  Thunderbolt  1929"
+            },
+            {
+                "rank": 2,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "2  Potemkin  1925"
+            },
+            {
+                "rank": 3,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "3  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 4,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "4  Sunrise  1927"
+            },
+            {
+                "rank": 5,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "5  Passion of Joan of Arc  1928"
+            },
+            {
+                "rank": 6,
+                "title": "Foolish Wives",
+                "year": 1922,
+                "original_language": "en",
+                "portuguese_title": "Esposas Ingênuas",
+                "original_query": "6  Foolish Wives  1922"
+            },
+            {
+                "rank": 7,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "7  Faust  1926"
+            },
+            {
+                "rank": 8,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "8  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 9,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "9  Un Chien Andalou  1929"
+            },
+            {
+                "rank": 10,
+                "title": "Lichtspiel: Opus I",
+                "year": 1921,
+                "original_language": "xx",
+                "portuguese_title": "Lichtspiel: Opus I",
+                "original_query": "10  Lichtspiel: Opus I  1921"
+            }
+        ]
+    },
+    {
+        "_id": "67880220c2f7b68412fb95b1",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "1  Sunrise: A Song of Two Humans  1926"
+            },
+            {
+                "rank": 2,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "2  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 3,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "3  Um homem com uma câmera  1920"
+            },
+            {
+                "rank": 4,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "4  O Encouraçado Potemkin  1925"
+            },
+            {
+                "rank": 5,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "5  La Passion de Jeanne d'Arc  1928"
+            },
+            {
+                "rank": 6,
+                "title": "The General",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "A General",
+                "original_query": "6  The General  1926"
+            },
+            {
+                "rank": 7,
+                "title": "Стачка",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "A Greve",
+                "original_query": "7  A Greve  1925"
+            },
+            {
+                "rank": 8,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "8  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 9,
+                "title": "Anémic cinéma",
+                "year": 1926,
+                "original_language": "fr",
+                "portuguese_title": "Anemic Cinema",
+                "original_query": "9  Anémic Cinéma  1926"
+            },
+            {
+                "rank": 10,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "10  Nosferatu  1922"
+            }
+        ]
+    },
+    {
+        "_id": "67880226c2f7b68412fb95b2",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "1  A paixão de joana d'arc  1928"
+            },
+            {
+                "rank": 2,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "2  Um homem com uma câmera  1929"
+            },
+            {
+                "rank": 3,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "3  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 4,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "4  O encouraçado potemkin  1925"
+            },
+            {
+                "rank": 5,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "5  Fausto  1926"
+            },
+            {
+                "rank": 6,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "6  O gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 7,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "7  Um cão andaluz  1929"
+            },
+            {
+                "rank": 8,
+                "title": "La souriante Madame Beudet",
+                "year": 1923,
+                "original_language": "fr",
+                "portuguese_title": "A Sorridente Madame Beudet",
+                "original_query": "8  A sorridente madame beudet  1923"
+            },
+            {
+                "rank": 9,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "9  A carruagem fantasma  1921"
+            },
+            {
+                "rank": 10,
+                "title": "Metropolis",
+                "year": 1927,
+                "original_language": "de",
+                "portuguese_title": "Metrópolis",
+                "original_query": "10  Metropolis  1927"
+            }
+        ]
+    },
+    {
+        "_id": "67880230c2f7b68412fb95b3",
+        "voter_name": "Nome: Miguel Fernandes",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "1  Aurora  1927"
+            },
+            {
+                "rank": 2,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "2  Fausto  1926"
+            },
+            {
+                "rank": 3,
+                "title": "Der letzte Mann",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "A Última Gargalhada",
+                "original_query": "3  A Última Gargalhada  1924"
+            },
+            {
+                "rank": 4,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "4  Nosferatu  1922"
+            },
+            {
+                "rank": 5,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "5  A Paixão de Joana d’Arc  1929"
+            },
+            {
+                "rank": 6,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "6  Way Down East  1920"
+            },
+            {
+                "rank": 7,
+                "title": "Lucky Star",
+                "year": 1929,
+                "original_language": "en",
+                "portuguese_title": "Lucky Star",
+                "original_query": "7  Lucky Star  1929"
+            },
+            {
+                "rank": 8,
+                "title": "Street Angel",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "Street Angel",
+                "original_query": "8  Street Angel  1928"
+            },
+            {
+                "rank": 9,
+                "title": "7th Heaven",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Sétimo Céu",
+                "original_query": "9  7th Heaven  1927"
+            },
+            {
+                "rank": 10,
+                "title": "東京行進曲",
+                "year": 1929,
+                "original_language": "ja",
+                "portuguese_title": "Tokyo March",
+                "original_query": "10  Tokyo March  1929"
+            },
+            {
+                "rank": 11,
+                "title": "The Docks of New York",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "Docas de Nova York",
+                "original_query": "11  The Docks of New York  1928"
+            },
+            {
+                "rank": 12,
+                "title": "The Last Command",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "A Última Ordem",
+                "original_query": "12  The Last Command  1928"
+            },
+            {
+                "rank": 13,
+                "title": "Four Sons",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "Os Quatro Filhos",
+                "original_query": "13  Four Sons  1928"
+            },
+            {
+                "rank": 14,
+                "title": "Октябрь",
+                "year": 1928,
+                "original_language": "ru",
+                "portuguese_title": "Outubro",
+                "original_query": "14  Outubro  1928"
+            },
+            {
+                "rank": 15,
+                "title": "Nazaré, Praia de Pescadores",
+                "year": 1929,
+                "original_language": "pt",
+                "portuguese_title": "Nazaré, Praia de Pescadores",
+                "original_query": "15  Nazaré, Praia de Pescadores  1929"
+            }
+        ]
+    },
+    {
+        "_id": "67880239c2f7b68412fb95b4",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "1  Faust  1926"
+            },
+            {
+                "rank": 2,
+                "title": "Napoléon",
+                "year": 1927,
+                "original_language": "fr",
+                "portuguese_title": "Napoleão",
+                "original_query": "2  Napoleon  1927"
+            },
+            {
+                "rank": 3,
+                "title": "Москва в Октябре",
+                "year": 1927,
+                "original_language": "ru",
+                "portuguese_title": "Moscow in October",
+                "original_query": "3  October  1927"
+            },
+            {
+                "rank": 4,
+                "title": "The General",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "A General",
+                "original_query": "4  The General  1926"
+            },
+            {
+                "rank": 5,
+                "title": "The Thief of Bagdad",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "O Ladrão de Bagdá",
+                "original_query": "5  The Thief of Baghdad  1924"
+            },
+            {
+                "rank": 6,
+                "title": "Dr. Mabuse, der Spieler",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Dr. Mabuse, o Jogador",
+                "original_query": "6  Dr. Mabuse the Gambler  1922"
+            },
+            {
+                "rank": 7,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "7  Man with a Movie Camera  1929"
+            },
+            {
+                "rank": 8,
+                "title": "The Gold Rush",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "Em Busca do Ouro",
+                "original_query": "8  The Gold Rush  1925"
+            },
+            {
+                "rank": 9,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "9  La Passion de Jeanne d'Arc  1928"
+            },
+            {
+                "rank": 10,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "10  Sunrise: A Song of Two Humans  1927"
+            },
+            {
+                "rank": 11,
+                "title": "Der letzte Mann",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "A Última Gargalhada",
+                "original_query": "11  Der letzte Mann  1924"
+            },
+            {
+                "rank": 12,
+                "title": "Lucky Star",
+                "year": 1929,
+                "original_language": "en",
+                "portuguese_title": "Lucky Star",
+                "original_query": "12  Lucky Star  1929"
+            },
+            {
+                "rank": 13,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "13  Un Chien Andalou  1929"
+            },
+            {
+                "rank": 14,
+                "title": "The Iron Horse",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "O Cavalo de Ferro",
+                "original_query": "14  The Iron Horse  1924"
+            },
+            {
+                "rank": 15,
+                "title": "狂った一頁",
+                "year": 1926,
+                "original_language": "ja",
+                "portuguese_title": "Uma Página de Loucura",
+                "original_query": "15  A Page of Madness  1926"
+            }
+        ]
+    },
+    {
+        "_id": "6788023fc2f7b68412fb95b5",
+        "voter_name": "Ber",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "1  A Paixão de Joana d'Arc  1928"
+            },
+            {
+                "rank": 2,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "2  Um Homem com uma Câmera  1929"
+            },
+            {
+                "rank": 3,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "3  Aurora  1927"
+            },
+            {
+                "rank": 4,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "4  A Carruagem Fantasma  1921"
+            },
+            {
+                "rank": 5,
+                "title": "Napoléon",
+                "year": 1927,
+                "original_language": "fr",
+                "portuguese_title": "Napoleão",
+                "original_query": "5  Napoleão  1927"
+            },
+            {
+                "rank": 6,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "6  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 7,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "7  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 8,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "8  Fausto  1926"
+            },
+            {
+                "rank": 9,
+                "title": "Nanook of the North",
+                "year": 1922,
+                "original_language": "en",
+                "portuguese_title": "Nanook, o Esquimó",
+                "original_query": "9  Nanook, O Esquimó  1922"
+            },
+            {
+                "rank": 10,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "10  Um Cão Andaluz  1929"
+            }
+        ]
+    },
+    {
+        "_id": "67880245c2f7b68412fb95b6",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Metropolis",
+                "year": 1927,
+                "original_language": "de",
+                "portuguese_title": "Metrópolis",
+                "original_query": "1  Metropolis  1927"
+            },
+            {
+                "rank": 2,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "2  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 3,
+                "title": "Screen Tests for Faust",
+                "year": 1923,
+                "original_language": "en",
+                "portuguese_title": "Screen Tests for Faust",
+                "original_query": "3  Faust  1923"
+            },
+            {
+                "rank": 4,
+                "title": "Die Nibelungen: Siegfried",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "Os Nibelungos Parte 1: A Morte de Siegfried",
+                "original_query": "4  Die Nibelungen: Siegfried  1924"
+            },
+            {
+                "rank": 5,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "5  The Phantom Carriage  1921"
+            },
+            {
+                "rank": 6,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "6  Nosferatu  1922"
+            },
+            {
+                "rank": 7,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "7  The Passion of Joan of Arc  1928"
+            },
+            {
+                "rank": 8,
+                "title": "The Man Who Laughs",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "O Homem Que Ri",
+                "original_query": "8  The Man Who Laughs  1928"
+            },
+            {
+                "rank": 9,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "9  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 10,
+                "title": "The Lodger: A Story of the London Fog",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "O Inquilino",
+                "original_query": "10  The Lodger: A Story of a London Fog  1927"
+            }
+        ]
+    },
+    {
+        "_id": "6788024bc2f7b68412fb95b7",
+        "voter_name": "Beatrix",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "El Dorado",
+                "year": 1921,
+                "original_language": "fr",
+                "portuguese_title": "El Dorado",
+                "original_query": "1  El Dorado  1921"
+            },
+            {
+                "rank": 2,
+                "title": "Октябрь",
+                "year": 1928,
+                "original_language": "ru",
+                "portuguese_title": "Outubro",
+                "original_query": "2  Outubro  1928"
+            },
+            {
+                "rank": 3,
+                "title": "Звенигора",
+                "year": 1928,
+                "original_language": "uk",
+                "portuguese_title": "Zvenygora",
+                "original_query": "3  Zvenygora  1928"
+            },
+            {
+                "rank": 4,
+                "title": "The Docks of New York",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "Docas de Nova York",
+                "original_query": "4  The Docks Of New York  1928"
+            },
+            {
+                "rank": 5,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "5  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 6,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "6  Man with a Movie Camera  1929"
+            },
+            {
+                "rank": 7,
+                "title": "Ballet Mécanique",
+                "year": 1924,
+                "original_language": "fr",
+                "portuguese_title": "Balé Mecânico",
+                "original_query": "7  Ballet Mécanique  1924"
+            },
+            {
+                "rank": 8,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "8  Battleship Potemkin  1925"
+            },
+            {
+                "rank": 9,
+                "title": "Emak-Bakia",
+                "year": 1926,
+                "original_language": "fr",
+                "portuguese_title": "Emak-Bakia",
+                "original_query": "9  Emak-Bakia  1926"
+            },
+            {
+                "rank": 10,
+                "title": "Symphonie diagonale",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "Diagonal Symphony",
+                "original_query": "10  Diagonal Symphony  1924"
+            }
+        ]
+    },
+    {
+        "_id": "67880252c2f7b68412fb95b8",
+        "voter_name": "Tarcisio",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "The General",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "A General",
+                "original_query": "1  The General  1926"
+            },
+            {
+                "rank": 2,
+                "title": "Within Our Gates",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Nos Limites dos Portões",
+                "original_query": "2  Within Our Gates  1920"
+            },
+            {
+                "rank": 3,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "3  Man With a Movie Camera  1929"
+            },
+            {
+                "rank": 4,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "4  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 5,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "5  The Passion of Joan of Arc  1928"
+            },
+            {
+                "rank": 6,
+                "title": "The Symbol of the Unconquered",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "O Símbolo dos Resistentes: Uma História da Ku Klux Klan",
+                "original_query": "6  The Symbol of the Unconquered  1920"
+            },
+            {
+                "rank": 7,
+                "title": "The Phantom of the Opera",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "O Fantasma da Ópera",
+                "original_query": "7  The Phantom of the Opera  1925"
+            },
+            {
+                "rank": 8,
+                "title": "Battleship Pomtekin",
+                "year": "1925",
+                "original_language": null,
+                "portuguese_title": null,
+                "original_query": "8  Battleship Pomtekin  1925"
+            },
+            {
+                "rank": 9,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "9  Sunrise  1927"
+            },
+            {
+                "rank": 10,
+                "title": "Стачка",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "A Greve",
+                "original_query": "10  Strike  1925"
+            }
+        ]
+    },
+    {
+        "_id": "6788025cc2f7b68412fb95b9",
+        "voter_name": "Felipe Considera",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "1  Um Homem com Uma Câmera  1929"
+            },
+            {
+                "rank": 2,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "2  Nosferatu  1922"
+            },
+            {
+                "rank": 3,
+                "title": "Regen",
+                "year": 1929,
+                "original_language": "nl",
+                "portuguese_title": "Chuva",
+                "original_query": "3  Rain  1929"
+            },
+            {
+                "rank": 4,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "4  Sherlock Jr  1924"
+            },
+            {
+                "rank": 5,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "5  Um Cão Andaluz  1929"
+            },
+            {
+                "rank": 6,
+                "title": "As aventuras do Príncipe Archemed",
+                "year": "1926",
+                "original_language": null,
+                "portuguese_title": null,
+                "original_query": "6  As aventuras do Príncipe Archemed  1926"
+            },
+            {
+                "rank": 7,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "7  A Carruagem Fantasma  1921"
+            },
+            {
+                "rank": 8,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "8  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 9,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "9  Encouraçado Potemkine  1925"
+            },
+            {
+                "rank": 10,
+                "title": "The Cameraman",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "O Homem das Novidades",
+                "original_query": "10  The Cameraman  1928"
+            },
+            {
+                "rank": 11,
+                "title": "Киноглаз",
+                "year": 1924,
+                "original_language": "ru",
+                "portuguese_title": "Cinema Olho",
+                "original_query": "11  Kino Eye  1924"
+            },
+            {
+                "rank": 12,
+                "title": "Greed",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Ouro e Maldição",
+                "original_query": "12  Greed  1924"
+            },
+            {
+                "rank": 13,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "13  Faust  1926"
+            },
+            {
+                "rank": 14,
+                "title": "The Gold Rush",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "Em Busca do Ouro",
+                "original_query": "14  Em Busca do Ouro  1925"
+            },
+            {
+                "rank": 15,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "15  O Martírio de Joana D'Arc  1928"
+            }
+        ]
+    },
+    {
+        "_id": "67880262c2f7b68412fb95ba",
+        "voter_name": "sem nome",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "1  As Duas Tormentas  1920"
+            },
+            {
+                "rank": 2,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "2  Nosferatu  1922"
+            },
+            {
+                "rank": 3,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "3  Aurora  1927"
+            },
+            {
+                "rank": 4,
+                "title": "Napoléon",
+                "year": 1927,
+                "original_language": "fr",
+                "portuguese_title": "Napoleão",
+                "original_query": "4  Napoleão  1927"
+            },
+            {
+                "rank": 5,
+                "title": "Greed",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Ouro e Maldição",
+                "original_query": "5  Ouro e Maldição  1924"
+            },
+            {
+                "rank": 6,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "6  A Paixão de Joana D’Arc  1928"
+            },
+            {
+                "rank": 7,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "7  O Encouraçado Potemkin  1925"
+            },
+            {
+                "rank": 8,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "8  A Carruagem Fantasma  1921"
+            },
+            {
+                "rank": 9,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "9  Sherlock Jr.  1924"
+            }
+        ]
+    },
+    {
+        "_id": "6788026bc2f7b68412fb95bb",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "1  As Duas Tormentas  1920"
+            },
+            {
+                "rank": 2,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "2  Nosferatu  1922"
+            },
+            {
+                "rank": 3,
+                "title": "Октябрь",
+                "year": 1928,
+                "original_language": "ru",
+                "portuguese_title": "Outubro",
+                "original_query": "3  Outubro  1928"
+            },
+            {
+                "rank": 4,
+                "title": "Napoléon",
+                "year": 1927,
+                "original_language": "fr",
+                "portuguese_title": "Napoleão",
+                "original_query": "4  Napoleão  1927"
+            },
+            {
+                "rank": 5,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "5  Aurora  1927"
+            },
+            {
+                "rank": 6,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "6  A Paixão de Joana D’Arc  1928"
+            },
+            {
+                "rank": 7,
+                "title": "The Gold Rush",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "Em Busca do Ouro",
+                "original_query": "7  The Gold Rush  1925"
+            },
+            {
+                "rank": 8,
+                "title": "Greed",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Ouro e Maldição",
+                "original_query": "8  Ouro e Maldição  1924"
+            },
+            {
+                "rank": 9,
+                "title": "Ménilmontant",
+                "year": 1926,
+                "original_language": "fr",
+                "portuguese_title": "Ménilmontant",
+                "original_query": "9  Ménilmontant  1926"
+            },
+            {
+                "rank": 10,
+                "title": "The Crowd",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "A Turba",
+                "original_query": "10  A Turba  1928"
+            },
+            {
+                "rank": 11,
+                "title": "The Unknown",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "O Monstro do Circo",
+                "original_query": "11  O Monstro do Circo  1927"
+            },
+            {
+                "rank": 12,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "12  A Carruagem Fantasma  1921"
+            },
+            {
+                "rank": 13,
+                "title": "Lady Windermere's Fan",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "Lady Windermere's Fan",
+                "original_query": "13  Lady Windermere’s Fan  1925"
+            },
+            {
+                "rank": 14,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "14  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 15,
+                "title": "La Coquille et le Clergyman",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "A Concha e o Clérigo",
+                "original_query": "15  A Concha e o Clérigo  1928"
+            }
+        ]
+    },
+    {
+        "_id": "67880275c2f7b68412fb95bc",
+        "voter_name": "- Quia",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "1  La Passion De Jeanne D'arc  1928"
+            },
+            {
+                "rank": 2,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "2  Battleship Potemkin  1925"
+            },
+            {
+                "rank": 3,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "3  Sunrise  1927"
+            },
+            {
+                "rank": 4,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "4  Way Down East  1920"
+            },
+            {
+                "rank": 5,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "5  The Phantom Carriage  1921"
+            },
+            {
+                "rank": 6,
+                "title": "Lucky Star",
+                "year": 1929,
+                "original_language": "en",
+                "portuguese_title": "Lucky Star",
+                "original_query": "6  Lucky Star  1929"
+            },
+            {
+                "rank": 7,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "7  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 8,
+                "title": "Metropolis",
+                "year": 1927,
+                "original_language": "de",
+                "portuguese_title": "Metrópolis",
+                "original_query": "8  Metropolis  1927"
+            },
+            {
+                "rank": 9,
+                "title": "Souls for Sale",
+                "year": 1923,
+                "original_language": "en",
+                "portuguese_title": "Almas à Venda",
+                "original_query": "9  Souls For Sale  1923"
+            },
+            {
+                "rank": 10,
+                "title": "The Little Machine Girl",
+                "year": "1928",
+                "original_language": null,
+                "portuguese_title": null,
+                "original_query": "10  The Little Machine Girl  1928"
+            },
+            {
+                "rank": 11,
+                "title": "The General",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "A General",
+                "original_query": "11  The General  1926"
+            },
+            {
+                "rank": 12,
+                "title": "Der letzte Mann",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "A Última Gargalhada",
+                "original_query": "12  The Last Laugh  1924"
+            },
+            {
+                "rank": 13,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "13  Man With a Movie Camera  1929"
+            },
+            {
+                "rank": 14,
+                "title": "Die Nibelungen: Siegfried",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "Os Nibelungos Parte 1: A Morte de Siegfried",
+                "original_query": "14  Die Nibelungen: Siegfried  1924"
+            },
+            {
+                "rank": 15,
+                "title": "Rien que les heures",
+                "year": 1926,
+                "original_language": "fr",
+                "portuguese_title": "Nothing But Time",
+                "original_query": "15  Rien que les Heures  1926"
+            }
+        ]
+    },
+    {
+        "_id": "6788027cc2f7b68412fb95bd",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "1  Aurora  1927"
+            },
+            {
+                "rank": 2,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "2  Fausto  1926"
+            },
+            {
+                "rank": 3,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "3  A Paixão de Joana D'arc  1928"
+            },
+            {
+                "rank": 4,
+                "title": "The Gold Rush",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "Em Busca do Ouro",
+                "original_query": "4  Em Busca do Ouro  1925"
+            },
+            {
+                "rank": 5,
+                "title": "Октябрь",
+                "year": 1928,
+                "original_language": "ru",
+                "portuguese_title": "Outubro",
+                "original_query": "5  Outubro  1928"
+            },
+            {
+                "rank": 6,
+                "title": "The Cameraman",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "O Homem das Novidades",
+                "original_query": "6  The Cameraman  1928"
+            },
+            {
+                "rank": 7,
+                "title": "The Crowd",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "A Turba",
+                "original_query": "7  The crowd  1928"
+            },
+            {
+                "rank": 8,
+                "title": "The Circus",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "O Circo",
+                "original_query": "8  The Circus  1928"
+            },
+            {
+                "rank": 9,
+                "title": "The Kid",
+                "year": 1921,
+                "original_language": "en",
+                "portuguese_title": "O Garoto",
+                "original_query": "9  The Kid  1921"
+            },
+            {
+                "rank": 10,
+                "title": "Стачка",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "A Greve",
+                "original_query": "10  A Greve  1925"
+            },
+            {
+                "rank": 11,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "11  Um Homem com Uma câmera  1929"
+            },
+            {
+                "rank": 12,
+                "title": "One Week",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Uma Semana",
+                "original_query": "12  One Week  1920"
+            }
+        ]
+    },
+    {
+        "_id": "67880282c2f7b68412fb95be",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "One Week",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Uma Semana",
+                "original_query": "1  One Week  1920"
+            },
+            {
+                "rank": 2,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "2  Faust  1926"
+            },
+            {
+                "rank": 3,
+                "title": "Шестая часть мира",
+                "year": 1926,
+                "original_language": "ru",
+                "portuguese_title": "A Sexta Parte do Mundo",
+                "original_query": "3  A Sixth Part of the world  1926"
+            },
+            {
+                "rank": 4,
+                "title": "Napoléon",
+                "year": 1927,
+                "original_language": "fr",
+                "portuguese_title": "Napoleão",
+                "original_query": "4  Napoleon  1927"
+            },
+            {
+                "rank": 5,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "5  Sunrise  1927"
+            },
+            {
+                "rank": 6,
+                "title": "The Scarecrow",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "O Espantalho",
+                "original_query": "6  O Espantalho  1920"
+            },
+            {
+                "rank": 7,
+                "title": "The Kid",
+                "year": 1921,
+                "original_language": "en",
+                "portuguese_title": "O Garoto",
+                "original_query": "7  The Kid  1921"
+            },
+            {
+                "rank": 8,
+                "title": "Herr Tartüff",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Tartufo",
+                "original_query": "8  Tartufo  1926"
+            },
+            {
+                "rank": 9,
+                "title": "Стачка",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "A Greve",
+                "original_query": "9  Strike  1925"
+            },
+            {
+                "rank": 10,
+                "title": "Street Angel",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "Street Angel",
+                "original_query": "10  Street Angel  1928"
+            }
+        ]
+    },
+    {
+        "_id": "67880283c2f7b68412fb95bf",
+        "voter_name": "sem nome",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "1  O Gabinete do Dr. Caligari  1920"
+            }
+        ]
+    },
+    {
+        "_id": "67880283c2f7b68412fb95c0",
+        "voter_name": "",
+        "votes": []
+    },
+    {
+        "_id": "67880287c2f7b68412fb95c1",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Lucky Star",
+                "year": 1929,
+                "original_language": "en",
+                "portuguese_title": "Lucky Star",
+                "original_query": "1  Lucky Star  1929"
+            },
+            {
+                "rank": 2,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "2  Um Homem com uma Câmera  1929"
+            },
+            {
+                "rank": 3,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "3  Faust - Eine Deutsche Volkssage  1926"
+            },
+            {
+                "rank": 4,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "4  Sunrise  1927"
+            },
+            {
+                "rank": 5,
+                "title": "Стачка",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "A Greve",
+                "original_query": "5  A Greve  1925"
+            },
+            {
+                "rank": 6,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "6  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 7,
+                "title": "Dr. Mabuse, der Spieler",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Dr. Mabuse, o Jogador",
+                "original_query": "7  Dr. Mabuse  1922"
+            },
+            {
+                "rank": 8,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "8  Phantom Carriage  1921"
+            }
+        ]
+    },
+    {
+        "_id": "67880291c2f7b68412fb95c2",
+        "voter_name": "sem nome",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "1  Sunrise  1927"
+            },
+            {
+                "rank": 2,
+                "title": "The Circus Ace",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "The Circus Ace",
+                "original_query": "2  The Circus  1927"
+            },
+            {
+                "rank": 3,
+                "title": "西厢记",
+                "year": 1927,
+                "original_language": "zh",
+                "portuguese_title": "Way Down West",
+                "original_query": "3  Way Down West  1920"
+            },
+            {
+                "rank": 4,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "4  A Paixão de Joana D'arc  1928"
+            },
+            {
+                "rank": 5,
+                "title": "Faust – Eine deutsche Volkssage",
+                "year": 1926,
+                "original_language": "de",
+                "portuguese_title": "Fausto",
+                "original_query": "5  Fausto  1926"
+            },
+            {
+                "rank": 6,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "6  Nosferatu  1922"
+            },
+            {
+                "rank": 7,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "7  Sherlock Jr  1924"
+            },
+            {
+                "rank": 8,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "8  Un Chien Andalou  1929"
+            },
+            {
+                "rank": 9,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "9  Homem com uma Câmera  1929"
+            },
+            {
+                "rank": 10,
+                "title": "The Kid",
+                "year": 1921,
+                "original_language": "en",
+                "portuguese_title": "O Garoto",
+                "original_query": "10  The Kid  1921"
+            },
+            {
+                "rank": 11,
+                "title": "The Crowd",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "A Turba",
+                "original_query": "11  The Crowd  1928"
+            },
+            {
+                "rank": 12,
+                "title": "One Week",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Uma Semana",
+                "original_query": "12  One Week  1920"
+            },
+            {
+                "rank": 13,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "13  Encouraçado Potemkin  1925"
+            },
+            {
+                "rank": 14,
+                "title": "Le retour à la raison",
+                "year": 1923,
+                "original_language": "fr",
+                "portuguese_title": "Retorno a Razão",
+                "original_query": "14  Return to Reason  1923"
+            }
+        ]
+    },
+    {
+        "_id": "67880291c2f7b68412fb95c3",
+        "voter_name": "sem nome",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Октябрь",
+                "year": 1928,
+                "original_language": "ru",
+                "portuguese_title": "Outubro",
+                "original_query": "1  Outubro  1928"
+            }
+        ]
+    },
+    {
+        "_id": "67880298c2f7b68412fb95c4",
+        "voter_name": "- Carlos Henrique Pereira",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Os Nibelungos - A morte de Siegfried (As duas partes)",
+                "year": "1924",
+                "original_language": null,
+                "portuguese_title": null,
+                "original_query": "1  Os Nibelungos - A morte de Siegfried (As duas partes)  1924"
+            },
+            {
+                "rank": 2,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "2  Aurora  1927"
+            },
+            {
+                "rank": 3,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "3  A Paixão de Joana D'Arc  1928"
+            },
+            {
+                "rank": 4,
+                "title": "Броненосец Потёмкин",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "O Encouraçado Potemkin",
+                "original_query": "4  Encouraçado Potemkin  1925"
+            },
+            {
+                "rank": 5,
+                "title": "The Kid",
+                "year": 1921,
+                "original_language": "en",
+                "portuguese_title": "O Garoto",
+                "original_query": "5  The Kid  1921"
+            },
+            {
+                "rank": 6,
+                "title": "Körkarlen",
+                "year": 1921,
+                "original_language": "sv",
+                "portuguese_title": "A Carruagem Fantasma",
+                "original_query": "6  A Carruagem Fantasmas  1921"
+            },
+            {
+                "rank": 7,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "7  Way Down East  1920"
+            },
+            {
+                "rank": 8,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "8  O Gabinete do Dr. Caligari  1920"
+            },
+            {
+                "rank": 9,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "9  Sherlock Jr.  1924"
+            },
+            {
+                "rank": 10,
+                "title": "The Lodger: A Story of the London Fog",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "O Inquilino",
+                "original_query": "10  O Inquilino  1927"
+            }
+        ]
+    },
+    {
+        "_id": "678802a1c2f7b68412fb95c5",
+        "voter_name": "Gui Durand",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Napoléon",
+                "year": 1927,
+                "original_language": "fr",
+                "portuguese_title": "Napoleão",
+                "original_query": "1  Napoleão  1927"
+            },
+            {
+                "rank": 2,
+                "title": "Ben-Hur: A Tale of the Christ",
+                "year": 1925,
+                "original_language": "en",
+                "portuguese_title": "Ben-Hur",
+                "original_query": "2  Ben-Hur  1925"
+            },
+            {
+                "rank": 3,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "3  Way Down East  1920"
+            },
+            {
+                "rank": 4,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "4  Caligari  1920"
+            },
+            {
+                "rank": 5,
+                "title": "Стачка",
+                "year": 1925,
+                "original_language": "ru",
+                "portuguese_title": "A Greve",
+                "original_query": "5  A Greve  1925"
+            },
+            {
+                "rank": 6,
+                "title": "The Great White Silence",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "O Grande Silêncio Branco",
+                "original_query": "6  The Great White Silence  1924"
+            },
+            {
+                "rank": 7,
+                "title": "La Roue",
+                "year": 1923,
+                "original_language": "fr",
+                "portuguese_title": "A Roda",
+                "original_query": "7  A Roda  1923"
+            },
+            {
+                "rank": 8,
+                "title": "La Passion de Jeanne d'Arc",
+                "year": 1928,
+                "original_language": "fr",
+                "portuguese_title": "O Martírio de Joana D'Arc",
+                "original_query": "8  A Paixão de Joana d'Arc  1928"
+            },
+            {
+                "rank": 9,
+                "title": "Moana",
+                "year": 1926,
+                "original_language": "en",
+                "portuguese_title": "O Homem Perfeito",
+                "original_query": "9  Moana  1926"
+            },
+            {
+                "rank": 10,
+                "title": "Die Büchse der Pandora",
+                "year": 1929,
+                "original_language": "de",
+                "portuguese_title": "A Caixa de Pandora",
+                "original_query": "10  A Caixa de Pandora  1929"
+            },
+            {
+                "rank": 11,
+                "title": "狂った一頁",
+                "year": 1926,
+                "original_language": "ja",
+                "portuguese_title": "Uma Página de Loucura",
+                "original_query": "11  A Page of Madness  1926"
+            },
+            {
+                "rank": 12,
+                "title": "Die Nibelungen: Siegfried",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "Os Nibelungos Parte 1: A Morte de Siegfried",
+                "original_query": "12  Os Nibelungos  1924"
+            },
+            {
+                "rank": 13,
+                "title": "Nanook of the North",
+                "year": 1922,
+                "original_language": "en",
+                "portuguese_title": "Nanook, o Esquimó",
+                "original_query": "13  Nanook  1922"
+            },
+            {
+                "rank": 14,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "14  Nosferatu  1922"
+            },
+            {
+                "rank": 15,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "15  Homem com Uma Câmera  1929"
+            }
+        ]
+    },
+    {
+        "_id": "678802a2c2f7b68412fb95c6",
+        "voter_name": "Gabiru",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Октябрь",
+                "year": 1928,
+                "original_language": "ru",
+                "portuguese_title": "Outubro",
+                "original_query": "1  Outubro  1928"
+            }
+        ]
+    },
+    {
+        "_id": "678802acc2f7b68412fb95c7",
+        "voter_name": "",
+        "votes": [
+            {
+                "rank": 1,
+                "title": "Way Down East",
+                "year": 1920,
+                "original_language": "en",
+                "portuguese_title": "Inocente Pecadora",
+                "original_query": "1  Way Down East  1920"
+            },
+            {
+                "rank": 2,
+                "title": "The Crowd",
+                "year": 1928,
+                "original_language": "en",
+                "portuguese_title": "A Turba",
+                "original_query": "2  The Crowd  1928"
+            },
+            {
+                "rank": 3,
+                "title": "Человек с киноаппаратом",
+                "year": 1929,
+                "original_language": "ru",
+                "portuguese_title": "Um Homem com uma Câmera",
+                "original_query": "3  Man with a Movie Câmera  1929"
+            },
+            {
+                "rank": 4,
+                "title": "Sunrise: A Song of Two Humans",
+                "year": 1927,
+                "original_language": "en",
+                "portuguese_title": "Aurora",
+                "original_query": "4  Sunrise  1927"
+            },
+            {
+                "rank": 5,
+                "title": "Tha Passion of Joan of Arc",
+                "year": "1928",
+                "original_language": null,
+                "portuguese_title": null,
+                "original_query": "5  Tha Passion of Joan of Arc  1928"
+            },
+            {
+                "rank": 6,
+                "title": "Sherlock Jr.",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Bancando o Águia",
+                "original_query": "6  Sherlock Jr  1924"
+            },
+            {
+                "rank": 7,
+                "title": "Москва в Октябре",
+                "year": 1927,
+                "original_language": "ru",
+                "portuguese_title": "Moscow in October",
+                "original_query": "7  October  1927"
+            },
+            {
+                "rank": 8,
+                "title": "Der letzte Mann",
+                "year": 1924,
+                "original_language": "de",
+                "portuguese_title": "A Última Gargalhada",
+                "original_query": "8  The Last Laugh  1924"
+            },
+            {
+                "rank": 9,
+                "title": "Ménilmontant",
+                "year": 1926,
+                "original_language": "fr",
+                "portuguese_title": "Ménilmontant",
+                "original_query": "9  Menilmontant  1926"
+            },
+            {
+                "rank": 10,
+                "title": "Nanook of the North",
+                "year": 1922,
+                "original_language": "en",
+                "portuguese_title": "Nanook, o Esquimó",
+                "original_query": "10  Nanook of the North  1922"
+            },
+            {
+                "rank": 11,
+                "title": "Metropolis",
+                "year": 1927,
+                "original_language": "de",
+                "portuguese_title": "Metrópolis",
+                "original_query": "11  Metropolis  1927"
+            },
+            {
+                "rank": 12,
+                "title": "Nosferatu, eine Symphonie des Grauens",
+                "year": 1922,
+                "original_language": "de",
+                "portuguese_title": "Nosferatu",
+                "original_query": "12  Nosferatu  1922"
+            },
+            {
+                "rank": 13,
+                "title": "Manhandled",
+                "year": 1924,
+                "original_language": "en",
+                "portuguese_title": "Escravizada",
+                "original_query": "13  Manhandled  1924"
+            },
+            {
+                "rank": 14,
+                "title": "Un chien andalou",
+                "year": 1929,
+                "original_language": "fr",
+                "portuguese_title": "Um Cão Andaluz",
+                "original_query": "14  Un chien andalou  1929"
+            },
+            {
+                "rank": 15,
+                "title": "Das Cabinet des Dr. Caligari",
+                "year": 1920,
+                "original_language": "de",
+                "portuguese_title": "O Gabinete do Dr. Caligari",
+                "original_query": "15  Dr. Caligari  1920"
+            }
+        ]
+    }
+]

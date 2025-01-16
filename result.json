@@ -1,0 +1,966 @@
+[
+    {
+        "_id": "my darling clementine",
+        "totalScore": 227
+    },
+    {
+        "_id": "rope",
+        "totalScore": 133
+    },
+    {
+        "_id": "fort apache",
+        "totalScore": 112
+    },
+    {
+        "_id": "how green was my valley",
+        "totalScore": 105
+    },
+    {
+        "_id": "meshes of the afternoon",
+        "totalScore": 101
+    },
+    {
+        "_id": "cidadão kane",
+        "totalScore": 90
+    },
+    {
+        "_id": "laura",
+        "totalScore": 85
+    },
+    {
+        "_id": "out of the past",
+        "totalScore": 84
+    },
+    {
+        "_id": "red river",
+        "totalScore": 77
+    },
+    {
+        "_id": "citizen kane",
+        "totalScore": 77
+    },
+    {
+        "_id": "i walked with a zombie",
+        "totalScore": 75
+    },
+    {
+        "_id": "his girl friday",
+        "totalScore": 70
+    },
+    {
+        "_id": "late spring",
+        "totalScore": 69
+    },
+    {
+        "_id": "pai e filha",
+        "totalScore": 65
+    },
+    {
+        "_id": "rebecca",
+        "totalScore": 63
+    },
+    {
+        "_id": "roma, cidade aberta",
+        "totalScore": 61
+    },
+    {
+        "_id": "the big sleep",
+        "totalScore": 60
+    },
+    {
+        "_id": "notorious",
+        "totalScore": 57
+    },
+    {
+        "_id": "interlúdio",
+        "totalScore": 55
+    },
+    {
+        "_id": "como era verde meu vale",
+        "totalScore": 53
+    },
+    {
+        "_id": "day of wrath",
+        "totalScore": 52
+    },
+    {
+        "_id": "pursued",
+        "totalScore": 48
+    },
+    {
+        "_id": "they live by night",
+        "totalScore": 48
+    },
+    {
+        "_id": "cat people",
+        "totalScore": 45
+    },
+    {
+        "_id": "desencanto",
+        "totalScore": 44
+    },
+    {
+        "_id": "ladrões de bicicleta",
+        "totalScore": 44
+    },
+    {
+        "_id": "the lady from shanghai",
+        "totalScore": 42
+    },
+    {
+        "_id": "festim diabólico",
+        "totalScore": 42
+    },
+    {
+        "_id": "as vinhas da ira",
+        "totalScore": 40
+    },
+    {
+        "_id": "the red shoes",
+        "totalScore": 39
+    },
+    {
+        "_id": "como era verde o meu vale",
+        "totalScore": 38
+    },
+    {
+        "_id": "the magnificent ambersons",
+        "totalScore": 38
+    },
+    {
+        "_id": "to be or not to be",
+        "totalScore": 38
+    },
+    {
+        "_id": "dias de ira",
+        "totalScore": 38
+    },
+    {
+        "_id": "sob o signo de capricórnio",
+        "totalScore": 37
+    },
+    {
+        "_id": "white heat",
+        "totalScore": 37
+    },
+    {
+        "_id": "tramas do entardecer",
+        "totalScore": 37
+    },
+    {
+        "_id": "paixão dos fortes",
+        "totalScore": 37
+    },
+    {
+        "_id": "alemanha, ano zero",
+        "totalScore": 35
+    },
+    {
+        "_id": "amarga esperança",
+        "totalScore": 34
+    },
+    {
+        "_id": "sangue de heróis",
+        "totalScore": 33
+    },
+    {
+        "_id": "o céu mandou alguém",
+        "totalScore": 32
+    },
+    {
+        "_id": "bambi",
+        "totalScore": 31
+    },
+    {
+        "_id": "casablanca",
+        "totalScore": 31
+    },
+    {
+        "_id": "to have and have not",
+        "totalScore": 30
+    },
+    {
+        "_id": "bicycle thieves",
+        "totalScore": 29
+    },
+    {
+        "_id": "3 godfathers",
+        "totalScore": 29
+    },
+    {
+        "_id": "gentleman jim",
+        "totalScore": 28
+    },
+    {
+        "_id": "mulheres da noite",
+        "totalScore": 27
+    },
+    {
+        "_id": "the leopard man",
+        "totalScore": 27
+    },
+    {
+        "_id": "arsenic and old lace",
+        "totalScore": 27
+    },
+    {
+        "_id": "sangue de pantera",
+        "totalScore": 27
+    },
+    {
+        "_id": "alemanha ano zero",
+        "totalScore": 27
+    },
+    {
+        "_id": "it’s a wonderful life",
+        "totalScore": 26
+    },
+    {
+        "_id": "canyon passage",
+        "totalScore": 26
+    },
+    {
+        "_id": "the grapes of wrath",
+        "totalScore": 26
+    },
+    {
+        "_id": "rome, open city",
+        "totalScore": 26
+    },
+    {
+        "_id": "detour",
+        "totalScore": 25
+    },
+    {
+        "_id": "roma cidade aberta",
+        "totalScore": 24
+    },
+    {
+        "_id": "germany year zero",
+        "totalScore": 23
+    },
+    {
+        "_id": "the shop around the corner",
+        "totalScore": 23
+    },
+    {
+        "_id": "the treasure of the sierra madre",
+        "totalScore": 23
+    },
+    {
+        "_id": "monsieur verdoux",
+        "totalScore": 23
+    },
+    {
+        "_id": "the lady from shangai",
+        "totalScore": 21
+    },
+    {
+        "_id": "brief encounter",
+        "totalScore": 21
+    },
+    {
+        "_id": "days of wrath",
+        "totalScore": 20
+    },
+    {
+        "_id": "the ox-bow incident",
+        "totalScore": 20
+    },
+    {
+        "_id": "fireworks",
+        "totalScore": 20
+    },
+    {
+        "_id": "the third man",
+        "totalScore": 20
+    },
+    {
+        "_id": "the ghost and mrs. muir",
+        "totalScore": 19
+    },
+    {
+        "_id": "falcão maltês",
+        "totalScore": 19
+    },
+    {
+        "_id": "begone dull care",
+        "totalScore": 19
+    },
+    {
+        "_id": "a canção de bernadette",
+        "totalScore": 19
+    },
+    {
+        "_id": "ser ou não ser",
+        "totalScore": 18
+    },
+    {
+        "_id": "paisà",
+        "totalScore": 17
+    },
+    {
+        "_id": "pinocchio",
+        "totalScore": 17
+    },
+    {
+        "_id": "objective burma",
+        "totalScore": 17
+    },
+    {
+        "_id": "child of divorce",
+        "totalScore": 17
+    },
+    {
+        "_id": "germany, year zero",
+        "totalScore": 16
+    },
+    {
+        "_id": "black narcissus",
+        "totalScore": 16
+    },
+    {
+        "_id": "notorius",
+        "totalScore": 16
+    },
+    {
+        "_id": "meet me in st. louis",
+        "totalScore": 16
+    },
+    {
+        "_id": "i've always loved you",
+        "totalScore": 16
+    },
+    {
+        "_id": "brief encouder",
+        "totalScore": 16
+    },
+    {
+        "_id": "stray dog",
+        "totalScore": 15
+    },
+    {
+        "_id": "they live by night - ray",
+        "totalScore": 15
+    },
+    {
+        "_id": "grapes of wrath",
+        "totalScore": 15
+    },
+    {
+        "_id": "to be or not to be - 1942",
+        "totalScore": 15
+    },
+    {
+        "_id": "the children are watching us",
+        "totalScore": 15
+    },
+    {
+        "_id": "fallen angel - preminger",
+        "totalScore": 14
+    },
+    {
+        "_id": "fort aparche",
+        "totalScore": 14
+    },
+    {
+        "_id": "pacto de sangue",
+        "totalScore": 14
+    },
+    {
+        "_id": "they died with their boowts on",
+        "totalScore": 14
+    },
+    {
+        "_id": "the wolf man",
+        "totalScore": 14
+    },
+    {
+        "_id": "os 47 ronin",
+        "totalScore": 14
+    },
+    {
+        "_id": "letter from an unknown woman",
+        "totalScore": 14
+    },
+    {
+        "_id": "la terra trema - 1948",
+        "totalScore": 14
+    },
+    {
+        "_id": "four steps in the clouds",
+        "totalScore": 14
+    },
+    {
+        "_id": "laura - preminger",
+        "totalScore": 13
+    },
+    {
+        "_id": "colorado territory",
+        "totalScore": 13
+    },
+    {
+        "_id": "the shop around the corner - 1940",
+        "totalScore": 13
+    },
+    {
+        "_id": "who killed who?",
+        "totalScore": 13
+    },
+    {
+        "_id": "fallen angel",
+        "totalScore": 13
+    },
+    {
+        "_id": "o homem-leopardo",
+        "totalScore": 13
+    },
+    {
+        "_id": "beauty and the beast",
+        "totalScore": 13
+    },
+    {
+        "_id": "fuga do passado",
+        "totalScore": 13
+    },
+    {
+        "_id": "the three caballeros",
+        "totalScore": 13
+    },
+    {
+        "_id": "o grande ditador",
+        "totalScore": 13
+    },
+    {
+        "_id": "aniki-bóbó",
+        "totalScore": 13
+    },
+    {
+        "_id": "gaslight",
+        "totalScore": 13
+    },
+    {
+        "_id": "under capricorn",
+        "totalScore": 13
+    },
+    {
+        "_id": "double indemnity",
+        "totalScore": 12
+    },
+    {
+        "_id": "son of dracula",
+        "totalScore": 12
+    },
+    {
+        "_id": "raw deal",
+        "totalScore": 12
+    },
+    {
+        "_id": "rebecca - 1940",
+        "totalScore": 12
+    },
+    {
+        "_id": "the southerner",
+        "totalScore": 12
+    },
+    {
+        "_id": "the song of bernadette",
+        "totalScore": 12
+    },
+    {
+        "_id": "o homem leopardo",
+        "totalScore": 12
+    },
+    {
+        "_id": "alemanha ano zero - rossellini",
+        "totalScore": 12
+    },
+    {
+        "_id": "vinhas da ira",
+        "totalScore": 12
+    },
+    {
+        "_id": "também somos irmãos",
+        "totalScore": 11
+    },
+    {
+        "_id": "interlúdio - hitchcock",
+        "totalScore": 11
+    },
+    {
+        "_id": "the song of bernardette",
+        "totalScore": 11
+    },
+    {
+        "_id": "scarlet street",
+        "totalScore": 11
+    },
+    {
+        "_id": "high sierra",
+        "totalScore": 11
+    },
+    {
+        "_id": "the invisible man returns",
+        "totalScore": 11
+    },
+    {
+        "_id": "bicycle thieves - 1948",
+        "totalScore": 11
+    },
+    {
+        "_id": "um dia no campo",
+        "totalScore": 11
+    },
+    {
+        "_id": "o barba azul",
+        "totalScore": 11
+    },
+    {
+        "_id": "forte apache",
+        "totalScore": 10
+    },
+    {
+        "_id": "motion painting no. 1",
+        "totalScore": 10
+    },
+    {
+        "_id": "tesouro de sierra madre",
+        "totalScore": 10
+    },
+    {
+        "_id": "la terra trema",
+        "totalScore": 10
+    },
+    {
+        "_id": "os melhores anos de nossas vidas",
+        "totalScore": 10
+    },
+    {
+        "_id": "the ox-bow incident - 1943",
+        "totalScore": 10
+    },
+    {
+        "_id": "invisible agent",
+        "totalScore": 10
+    },
+    {
+        "_id": "um punhado de bravos",
+        "totalScore": 10
+    },
+    {
+        "_id": "study in choreography for câmera - deren",
+        "totalScore": 10
+    },
+    {
+        "_id": "haru no mezame",
+        "totalScore": 10
+    },
+    {
+        "_id": "o anjo embriagado",
+        "totalScore": 10
+    },
+    {
+        "_id": "magnificent ambersons",
+        "totalScore": 9
+    },
+    {
+        "_id": "corridor of mirrors",
+        "totalScore": 9
+    },
+    {
+        "_id": "sansão e dalila",
+        "totalScore": 9
+    },
+    {
+        "_id": "the iron crown",
+        "totalScore": 9
+    },
+    {
+        "_id": "to have our have not",
+        "totalScore": 9
+    },
+    {
+        "_id": "a história de uma mulher",
+        "totalScore": 9
+    },
+    {
+        "_id": "the 47 ronin",
+        "totalScore": 9
+    },
+    {
+        "_id": "the boy with green hair",
+        "totalScore": 9
+    },
+    {
+        "_id": "vinhas da ira - ford",
+        "totalScore": 9
+    },
+    {
+        "_id": "a day in the country",
+        "totalScore": 9
+    },
+    {
+        "_id": "brief encounter - 1945",
+        "totalScore": 9
+    },
+    {
+        "_id": "enamorada",
+        "totalScore": 8
+    },
+    {
+        "_id": "casablanca - 1942",
+        "totalScore": 8
+    },
+    {
+        "_id": "magnificent ambersons - welles",
+        "totalScore": 8
+    },
+    {
+        "_id": "house of dracula",
+        "totalScore": 8
+    },
+    {
+        "_id": "two people",
+        "totalScore": 8
+    },
+    {
+        "_id": "le sang des bêtes",
+        "totalScore": 8
+    },
+    {
+        "_id": "the lost weekend",
+        "totalScore": 8
+    },
+    {
+        "_id": "ritual in transfigured time",
+        "totalScore": 8
+    },
+    {
+        "_id": "ivan o terrível 2",
+        "totalScore": 8
+    },
+    {
+        "_id": "roma citta aperta",
+        "totalScore": 7
+    },
+    {
+        "_id": "the mummy's hand",
+        "totalScore": 7
+    },
+    {
+        "_id": "samson e delilah",
+        "totalScore": 7
+    },
+    {
+        "_id": "reap the wild wind",
+        "totalScore": 7
+    },
+    {
+        "_id": "rope - hitchcock",
+        "totalScore": 7
+    },
+    {
+        "_id": "bibycle thieves",
+        "totalScore": 7
+    },
+    {
+        "_id": "to have or not have",
+        "totalScore": 7
+    },
+    {
+        "_id": "his girl frydan",
+        "totalScore": 7
+    },
+    {
+        "_id": "the flame that never dies",
+        "totalScore": 7
+    },
+    {
+        "_id": "o estranho",
+        "totalScore": 7
+    },
+    {
+        "_id": "beauty and the beast - 1946",
+        "totalScore": 7
+    },
+    {
+        "_id": "screwball squirrel",
+        "totalScore": 6
+    },
+    {
+        "_id": "sua única saída",
+        "totalScore": 6
+    },
+    {
+        "_id": "his girl friday - 1940",
+        "totalScore": 6
+    },
+    {
+        "_id": "cat people - torneur",
+        "totalScore": 6
+    },
+    {
+        "_id": "the mummy's ghost",
+        "totalScore": 6
+    },
+    {
+        "_id": "jejum de amor",
+        "totalScore": 6
+    },
+    {
+        "_id": "my name is julia ross",
+        "totalScore": 6
+    },
+    {
+        "_id": "the maltese falcon",
+        "totalScore": 6
+    },
+    {
+        "_id": "the shanghai gesture",
+        "totalScore": 6
+    },
+    {
+        "_id": "three godfathers",
+        "totalScore": 6
+    },
+    {
+        "_id": "o silêncio do mar",
+        "totalScore": 6
+    },
+    {
+        "_id": "the great dictator",
+        "totalScore": 5
+    },
+    {
+        "_id": "à beira do abismo",
+        "totalScore": 5
+    },
+    {
+        "_id": "ball of fire",
+        "totalScore": 5
+    },
+    {
+        "_id": "the ox- bow incident",
+        "totalScore": 5
+    },
+    {
+        "_id": "red hot riding hood",
+        "totalScore": 5
+    },
+    {
+        "_id": "roma cidade aberta - rossellini",
+        "totalScore": 5
+    },
+    {
+        "_id": "almas em chamas",
+        "totalScore": 5
+    },
+    {
+        "_id": "the invisible man revenge",
+        "totalScore": 5
+    },
+    {
+        "_id": "a bela e a fera",
+        "totalScore": 5
+    },
+    {
+        "_id": "it's a wonderful life",
+        "totalScore": 5
+    },
+    {
+        "_id": "the man i love",
+        "totalScore": 5
+    },
+    {
+        "_id": "objective, burma!",
+        "totalScore": 5
+    },
+    {
+        "_id": "cat people - 1942",
+        "totalScore": 5
+    },
+    {
+        "_id": "dumbo",
+        "totalScore": 4
+    },
+    {
+        "_id": "shoeshine",
+        "totalScore": 4
+    },
+    {
+        "_id": "my darling clementine - 1946",
+        "totalScore": 4
+    },
+    {
+        "_id": "fast and furry-ous",
+        "totalScore": 4
+    },
+    {
+        "_id": "águas tempestuosas",
+        "totalScore": 4
+    },
+    {
+        "_id": "tramas do entardecer - deren",
+        "totalScore": 4
+    },
+    {
+        "_id": "roma città aperta",
+        "totalScore": 4
+    },
+    {
+        "_id": "the jester's supper",
+        "totalScore": 4
+    },
+    {
+        "_id": "children of paradise",
+        "totalScore": 4
+    },
+    {
+        "_id": "spellbound",
+        "totalScore": 4
+    },
+    {
+        "_id": "corpo e alma",
+        "totalScore": 4
+    },
+    {
+        "_id": "the great dictador",
+        "totalScore": 3
+    },
+    {
+        "_id": "at land",
+        "totalScore": 3
+    },
+    {
+        "_id": "i shot jesse james",
+        "totalScore": 3
+    },
+    {
+        "_id": "late spring - 1949",
+        "totalScore": 3
+    },
+    {
+        "_id": "woman of the night",
+        "totalScore": 3
+    },
+    {
+        "_id": "fantasia",
+        "totalScore": 3
+    },
+    {
+        "_id": "a vingança dos 47 ronin",
+        "totalScore": 3
+    },
+    {
+        "_id": "the fountainhead",
+        "totalScore": 3
+    },
+    {
+        "_id": "_  the boy with green hair - losey",
+        "totalScore": 3
+    },
+    {
+        "_id": "primavera tardia",
+        "totalScore": 3
+    },
+    {
+        "_id": "gran casino",
+        "totalScore": 3
+    },
+    {
+        "_id": "the invisible woman",
+        "totalScore": 3
+    },
+    {
+        "_id": "laura - 1944",
+        "totalScore": 2
+    },
+    {
+        "_id": "the picture of dorian grey",
+        "totalScore": 2
+    },
+    {
+        "_id": "the mummy's tomb",
+        "totalScore": 2
+    },
+    {
+        "_id": "aniki bobó",
+        "totalScore": 2
+    },
+    {
+        "_id": "_ brief encounter - david lean",
+        "totalScore": 2
+    },
+    {
+        "_id": "dentro da noite",
+        "totalScore": 2
+    },
+    {
+        "_id": "à sombra de uma dúvida",
+        "totalScore": 1
+    },
+    {
+        "_id": "paisa - rossellini",
+        "totalScore": 1
+    },
+    {
+        "_id": "dots",
+        "totalScore": 1
+    },
+    {
+        "_id": "spring in a small town",
+        "totalScore": 1
+    },
+    {
+        "_id": "eu matei jesse james",
+        "totalScore": 1
+    },
+    {
+        "_id": "blood of the beasts",
+        "totalScore": 1
+    },
+    {
+        "_id": "it’s a wonderful life - 1946",
+        "totalScore": 1
+    },
+    {
+        "_id": "radio dynamics",
+        "totalScore": 1
+    },
+    {
+        "_id": "le tempestaire",
+        "totalScore": 1
+    },
+    {
+        "_id": "lifeboat",
+        "totalScore": 1
+    },
+    {
+        "_id": "a study in choreography for camera",
+        "totalScore": 1
+    },
+    {
+        "_id": "my japan",
+        "totalScore": 1
+    },
+    {
+        "_id": "a matter of life and death",
+        "totalScore": 1
+    },
+    {
+        "_id": "the mummy's curse",
+        "totalScore": 1
+    },
+    {
+        "_id": "women of the night",
+        "totalScore": 1
+    },
+    {
+        "_id": "uma galinha ao vento",
+        "totalScore": 1
+    },
+    {
+        "_id": "soeshine",
+        "totalScore": 0
+    }
+]
