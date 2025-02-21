@@ -1,15 +1,15 @@
 [
     {
         "_id": "Sunrise: A Song of Two Humans",
-        "totalScore": 181
+        "totalScore": 207
     },
     {
         "_id": "La Passion de Jeanne d'Arc",
-        "totalScore": 156
+        "totalScore": 167
     },
     {
         "_id": "Человек с киноаппаратом",
-        "totalScore": 143
+        "totalScore": 132
     },
     {
         "_id": "Sherlock Jr.",
@@ -17,23 +17,23 @@
     },
     {
         "_id": "Faust – Eine deutsche Volkssage",
-        "totalScore": 97
+        "totalScore": 99
     },
     {
         "_id": "Броненосец Потёмкин",
-        "totalScore": 89
+        "totalScore": 93
     },
     {
         "_id": "Way Down East",
         "totalScore": 81
     },
     {
-        "_id": "Das Cabinet des Dr. Caligari",
-        "totalScore": 78
+        "_id": "Nosferatu, eine Symphonie des Grauens",
+        "totalScore": 79
     },
     {
-        "_id": "Nosferatu, eine Symphonie des Grauens",
-        "totalScore": 78
+        "_id": "Das Cabinet des Dr. Caligari",
+        "totalScore": 79
     },
     {
         "_id": "Napoléon",
@@ -76,6 +76,10 @@
         "totalScore": 29
     },
     {
+        "_id": "Die Nibelungen: Siegfried",
+        "totalScore": 28
+    },
+    {
         "_id": "The Gold Rush",
         "totalScore": 28
     },
@@ -88,20 +92,12 @@
         "totalScore": 24
     },
     {
-        "_id": "Greed",
-        "totalScore": 24
-    },
-    {
         "_id": "The Kid",
         "totalScore": 24
     },
     {
-        "_id": "The Cameraman",
-        "totalScore": 23
-    },
-    {
-        "_id": "Die Nibelungen: Siegfried",
-        "totalScore": 18
+        "_id": "Greed",
+        "totalScore": 24
     },
     {
         "_id": "Ménilmontant",
@@ -112,15 +108,19 @@
         "totalScore": 14
     },
     {
-        "_id": "The Circus Ace",
-        "totalScore": 13
-    },
-    {
         "_id": "Regen",
         "totalScore": 13
     },
     {
-        "_id": "The Docks of New York",
+        "_id": "The Cameraman",
+        "totalScore": 13
+    },
+    {
+        "_id": "The Circus Ace",
+        "totalScore": 13
+    },
+    {
+        "_id": "Dr. Mabuse, der Spieler",
         "totalScore": 12
     },
     {
@@ -128,32 +128,20 @@
         "totalScore": 12
     },
     {
+        "_id": "The Docks of New York",
+        "totalScore": 12
+    },
+    {
         "_id": "西厢记",
         "totalScore": 12
-    },
-    {
-        "_id": "Dr. Mabuse, der Spieler",
-        "totalScore": 12
-    },
-    {
-        "_id": "The Iron Horse",
-        "totalScore": 11
     },
     {
         "_id": "The Thief of Bagdad",
         "totalScore": 11
     },
     {
-        "_id": "Tha Passion of Joan of Arc",
+        "_id": "The Iron Horse",
         "totalScore": 11
-    },
-    {
-        "_id": "The Great White Silence",
-        "totalScore": 10
-    },
-    {
-        "_id": "Os Nibelungos - A morte de Siegfried (As duas partes)",
-        "totalScore": 10
     },
     {
         "_id": "As aventuras do Príncipe Archemed",
@@ -161,6 +149,10 @@
     },
     {
         "_id": "El Dorado",
+        "totalScore": 10
+    },
+    {
+        "_id": "The Great White Silence",
         "totalScore": 10
     },
     {
@@ -172,12 +164,28 @@
         "totalScore": 9
     },
     {
+        "_id": "Within Our Gates",
+        "totalScore": 9
+    },
+    {
         "_id": "Street Angel",
         "totalScore": 9
     },
     {
-        "_id": "Within Our Gates",
-        "totalScore": 9
+        "_id": "Screen Tests for Faust",
+        "totalScore": 8
+    },
+    {
+        "_id": "Звенигора",
+        "totalScore": 8
+    },
+    {
+        "_id": "A Girl in Every Port",
+        "totalScore": 8
+    },
+    {
+        "_id": "Steamboat Willie",
+        "totalScore": 8
     },
     {
         "_id": "狂った一頁",
@@ -188,19 +196,7 @@
         "totalScore": 8
     },
     {
-        "_id": "Screen Tests for Faust",
-        "totalScore": 8
-    },
-    {
-        "_id": "Steamboat Willie",
-        "totalScore": 8
-    },
-    {
-        "_id": "Звенигора",
-        "totalScore": 8
-    },
-    {
-        "_id": "7th Heaven",
+        "_id": "Souls for Sale",
         "totalScore": 7
     },
     {
@@ -208,43 +204,27 @@
         "totalScore": 7
     },
     {
-        "_id": "Souls for Sale",
+        "_id": "7th Heaven",
         "totalScore": 7
-    },
-    {
-        "_id": "A Girl in Every Port",
-        "totalScore": 7
-    },
-    {
-        "_id": "東京行進曲",
-        "totalScore": 6
-    },
-    {
-        "_id": "The Little Machine Girl",
-        "totalScore": 6
     },
     {
         "_id": "Die Büchse der Pandora",
         "totalScore": 6
     },
     {
-        "_id": "The Symbol of the Unconquered",
-        "totalScore": 5
+        "_id": "La Petite Marchande d'allumettes",
+        "totalScore": 6
     },
     {
-        "_id": "Herr Tartüff",
-        "totalScore": 5
-    },
-    {
-        "_id": "The Scarecrow",
-        "totalScore": 5
+        "_id": "東京行進曲",
+        "totalScore": 6
     },
     {
         "_id": "The Circus",
         "totalScore": 5
     },
     {
-        "_id": "Киноглаз",
+        "_id": "Manhatta",
         "totalScore": 5
     },
     {
@@ -252,20 +232,24 @@
         "totalScore": 5
     },
     {
+        "_id": "Киноглаз",
+        "totalScore": 5
+    },
+    {
+        "_id": "Herr Tartüff",
+        "totalScore": 5
+    },
+    {
         "_id": "The Unknown",
         "totalScore": 5
     },
     {
-        "_id": "Dreams of the Rarebit Fiend: The Flying House",
-        "totalScore": 4
+        "_id": "The Symbol of the Unconquered",
+        "totalScore": 5
     },
     {
-        "_id": "Manhatta",
-        "totalScore": 4
-    },
-    {
-        "_id": "Ballet Mécanique",
-        "totalScore": 4
+        "_id": "The Scarecrow",
+        "totalScore": 5
     },
     {
         "_id": "The Phantom of the Opera",
@@ -277,18 +261,22 @@
     },
     {
         "_id": "Cops",
+        "totalScore": 4
+    },
+    {
+        "_id": "Ballet Mécanique",
+        "totalScore": 4
+    },
+    {
+        "_id": "Dreams of the Rarebit Fiend: The Flying House",
+        "totalScore": 4
+    },
+    {
+        "_id": "The Man Who Laughs",
         "totalScore": 3
     },
     {
-        "_id": "Manhandled",
-        "totalScore": 3
-    },
-    {
-        "_id": "Battleship Pomtekin",
-        "totalScore": 3
-    },
-    {
-        "_id": "Spione",
+        "_id": "3 Bad Men",
         "totalScore": 3
     },
     {
@@ -296,11 +284,15 @@
         "totalScore": 3
     },
     {
-        "_id": "The Man Who Laughs",
+        "_id": "Manhandled",
         "totalScore": 3
     },
     {
         "_id": "Four Sons",
+        "totalScore": 3
+    },
+    {
+        "_id": "Spione",
         "totalScore": 3
     },
     {
@@ -312,7 +304,11 @@
         "totalScore": 2
     },
     {
-        "_id": "3 Bad Men",
+        "_id": "Go West",
+        "totalScore": 2
+    },
+    {
+        "_id": "Dr. Jekyll and Mr. Hyde",
         "totalScore": 2
     },
     {
@@ -320,23 +316,11 @@
         "totalScore": 2
     },
     {
-        "_id": "Go West",
-        "totalScore": 2
-    },
-    {
         "_id": "Anémic cinéma",
         "totalScore": 2
     },
     {
-        "_id": "Symphonie diagonale",
-        "totalScore": 1
-    },
-    {
-        "_id": "Lichtspiel: Opus I",
-        "totalScore": 1
-    },
-    {
-        "_id": "In Old Arizona",
+        "_id": "Nazaré, Praia de Pescadores",
         "totalScore": 1
     },
     {
@@ -344,7 +328,7 @@
         "totalScore": 1
     },
     {
-        "_id": "Rien que les heures",
+        "_id": "Symphonie diagonale",
         "totalScore": 1
     },
     {
@@ -356,11 +340,19 @@
         "totalScore": 1
     },
     {
-        "_id": "Nazaré, Praia de Pescadores",
+        "_id": "In Old Arizona",
         "totalScore": 1
     },
     {
         "_id": "Le retour à la raison",
+        "totalScore": 1
+    },
+    {
+        "_id": "Lichtspiel: Opus I",
+        "totalScore": 1
+    },
+    {
+        "_id": "Rien que les heures",
         "totalScore": 1
     }
 ]

@@ -1,0 +1,358 @@
+[
+    {
+        "_id": "Sunrise: A Song of Two Humans",
+        "totalVotes": 26
+    },
+    {
+        "_id": "La Passion de Jeanne d'Arc",
+        "totalVotes": 21
+    },
+    {
+        "_id": "Человек с киноаппаратом",
+        "totalVotes": 18
+    },
+    {
+        "_id": "Sherlock Jr.",
+        "totalVotes": 17
+    },
+    {
+        "_id": "Das Cabinet des Dr. Caligari",
+        "totalVotes": 16
+    },
+    {
+        "_id": "Faust – Eine deutsche Volkssage",
+        "totalVotes": 15
+    },
+    {
+        "_id": "Броненосец Потёмкин",
+        "totalVotes": 14
+    },
+    {
+        "_id": "Nosferatu, eine Symphonie des Grauens",
+        "totalVotes": 12
+    },
+    {
+        "_id": "Körkarlen",
+        "totalVotes": 10
+    },
+    {
+        "_id": "Way Down East",
+        "totalVotes": 8
+    },
+    {
+        "_id": "Un chien andalou",
+        "totalVotes": 8
+    },
+    {
+        "_id": "Октябрь",
+        "totalVotes": 7
+    },
+    {
+        "_id": "Стачка",
+        "totalVotes": 7
+    },
+    {
+        "_id": "Napoléon",
+        "totalVotes": 6
+    },
+    {
+        "_id": "The General",
+        "totalVotes": 6
+    },
+    {
+        "_id": "Der letzte Mann",
+        "totalVotes": 5
+    },
+    {
+        "_id": "The Kid",
+        "totalVotes": 5
+    },
+    {
+        "_id": "Greed",
+        "totalVotes": 5
+    },
+    {
+        "_id": "Die Nibelungen: Siegfried",
+        "totalVotes": 5
+    },
+    {
+        "_id": "One Week",
+        "totalVotes": 5
+    },
+    {
+        "_id": "Metropolis",
+        "totalVotes": 4
+    },
+    {
+        "_id": "Nanook of the North",
+        "totalVotes": 4
+    },
+    {
+        "_id": "The Crowd",
+        "totalVotes": 4
+    },
+    {
+        "_id": "The Gold Rush",
+        "totalVotes": 4
+    },
+    {
+        "_id": "Lucky Star",
+        "totalVotes": 4
+    },
+    {
+        "_id": "狂った一頁",
+        "totalVotes": 3
+    },
+    {
+        "_id": "Москва в Октябре",
+        "totalVotes": 3
+    },
+    {
+        "_id": "The Iron Horse",
+        "totalVotes": 2
+    },
+    {
+        "_id": "Dr. Mabuse, der Spieler",
+        "totalVotes": 2
+    },
+    {
+        "_id": "Ménilmontant",
+        "totalVotes": 2
+    },
+    {
+        "_id": "The Cameraman",
+        "totalVotes": 2
+    },
+    {
+        "_id": "The Lodger: A Story of the London Fog",
+        "totalVotes": 2
+    },
+    {
+        "_id": "The Docks of New York",
+        "totalVotes": 2
+    },
+    {
+        "_id": "Street Angel",
+        "totalVotes": 2
+    },
+    {
+        "_id": "Herr Tartüff",
+        "totalVotes": 2
+    },
+    {
+        "_id": "El Dorado",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Moana",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Souls for Sale",
+        "totalVotes": 1
+    },
+    {
+        "_id": "La Roue",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Spione",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Screen Tests for Faust",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Manhandled",
+        "totalVotes": 1
+    },
+    {
+        "_id": "In Old Arizona",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Ben-Hur: A Tale of the Christ",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Foolish Wives",
+        "totalVotes": 1
+    },
+    {
+        "_id": "München-Berlin Wanderung",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Thunderbolt",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Great White Silence",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Circus",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Within Our Gates",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Steamboat Willie",
+        "totalVotes": 1
+    },
+    {
+        "_id": "西厢记",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Regen",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Phantom of the Opera",
+        "totalVotes": 1
+    },
+    {
+        "_id": "La Petite Marchande d'allumettes",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Man Who Laughs",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Шестая часть мира",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Circus Ace",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Manhatta",
+        "totalVotes": 1
+    },
+    {
+        "_id": "3 Bad Men",
+        "totalVotes": 1
+    },
+    {
+        "_id": "La Coquille et le Clergyman",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Dr. Jekyll and Mr. Hyde",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Scarecrow",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Last Command",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Rien que les heures",
+        "totalVotes": 1
+    },
+    {
+        "_id": "雄呂血",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Go West",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Symbol of the Unconquered",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Nazaré, Praia de Pescadores",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Thief of Bagdad",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Symphonie diagonale",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Lichtspiel: Opus I",
+        "totalVotes": 1
+    },
+    {
+        "_id": "東京行進曲",
+        "totalVotes": 1
+    },
+    {
+        "_id": "The Unknown",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Lady Windermere's Fan",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Ballet Mécanique",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Emak-Bakia",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Le retour à la raison",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Four Sons",
+        "totalVotes": 1
+    },
+    {
+        "_id": "7th Heaven",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Cops",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Звенигора",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Anémic cinéma",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Киноглаз",
+        "totalVotes": 1
+    },
+    {
+        "_id": "As aventuras do Príncipe Archemed",
+        "totalVotes": 1
+    },
+    {
+        "_id": "La souriante Madame Beudet",
+        "totalVotes": 1
+    },
+    {
+        "_id": "A Girl in Every Port",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Die Büchse der Pandora",
+        "totalVotes": 1
+    },
+    {
+        "_id": "Dreams of the Rarebit Fiend: The Flying House",
+        "totalVotes": 1
+    }
+]

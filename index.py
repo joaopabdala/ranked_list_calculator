@@ -13,23 +13,48 @@ a = Votes()
 #     "votes",
 # ))
 #
+# a.insert(
+#     voter_name="aaaa",
+#     votes=[
+#         {
+#             "title": "sunrise",
+#             "year": "1927",
+#             "rank": "1"
+#         },
+#         {
+#             "title": "faust",
+#             "year": "1926",
+#             "rank": 2
+#         }
+#     ]
+# )
 # a.edit_list_vote(
-#     "677fd1ebc6675622cab71720",
-#     1,
-#     'sob o signo de capricórnio',
-#     1924
+#     id="67b7c48cc1f21c787ce5d826",
+#     vote={
+#             "title": "La Passion de Jeanne d'Arc",
+#             "year": 1928,
+#             "rank": 1
+#         }
+#
 # )
 
-# pprint(a.find_votes_by_year_range(1929, 2024))
+# a.delete("67b7c48cc1f21c787ce5d826")
+
+# pprint(a.find_votes_by_year_range(1925, 1929))
 # pprint(a.find_null_year())
 
 ranked_votes = VotesRanked()
 #
 # print(ranked_votes.calculate_votes_result())
 # print(ranked_votes.show_votes_by_score(100, 200))
-# print(ranked_votes.show_score_by_name('Sunrise'))
+# print(ranked_votes.show_score_by_name('Sherlock Jr.'))
 # print(ranked_votes.show_vote_quantity())
-# print(ranked_votes.info())
+# print(a.info())
+ranked_votes.score_bar_graph()
+ranked_votes.quantity_votes_bar_graph()
+ranked_votes.score_votes_pie_graph()
+ranked_votes.year_pie_graph()
+ranked_votes.year_bar_graph()
 # print(a.info())
 
 # df = pd.DataFrame({
@@ -53,8 +78,7 @@ ranked_votes = VotesRanked()
 # pprint(a.find_votes_by_year_range(1920, 1929))
 
 # ranked_votes.year_pie_graph()
-print(ranked_votes.calculate_votes_result())
-print(a.show_all())
-with open('individuals_lists.json', 'w', encoding='utf-8') as f:
-    json.dump(a.show_all(), f, default=str, indent=4, ensure_ascii=False)
-
+# print(ranked_votes.calculate_votes_result())
+# print(ranked_votes.show_votes_by_year())
+# print(ranked_votes.show_vote_quantity())
+# print(pd.DataFrame(a.show_all()))

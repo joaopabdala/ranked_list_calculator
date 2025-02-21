@@ -34,7 +34,7 @@ class VotesRanked:
         ])
 
         result_list = list(result)
-        with open('result2.json', 'w', encoding='utf-8') as f:
+        with open('result3.json', 'w', encoding='utf-8') as f:
             json.dump(result_list, f, default=str, indent=4, ensure_ascii=False)
 
         return pd.DataFrame(result_list)
@@ -59,7 +59,11 @@ class VotesRanked:
             {"$sort": {"totalScore": -1}}
         ])
 
-        return pd.DataFrame(list(result))
+        result_list = list(result)
+        with open('result_score_by_name.json', 'w', encoding='utf-8') as f:
+            json.dump(result_list, f, default=str, indent=4, ensure_ascii=False)
+
+        return pd.DataFrame(result_list)
 
     def show_votes_by_score(self, min_score, max_score=None):
         result = self.collection.aggregate([
@@ -85,7 +89,11 @@ class VotesRanked:
             }},
             {"$sort": {"totalScore": -1}}
         ])
-        return pd.DataFrame(list(result))
+        result_list = list(result)
+        with open('result_show_votes_by_score.json', 'w', encoding='utf-8') as f:
+            json.dump(result_list, f, default=str, indent=4, ensure_ascii=False)
+
+        return pd.DataFrame(result_list)
 
     def show_vote_quantity(self):
         result = self.collection.aggregate([
@@ -96,18 +104,26 @@ class VotesRanked:
             }},
             {"$sort": {"totalVotes": -1}}
         ])
-        return pd.DataFrame(list(result))
+        result_list = list(result)
+        with open('result_show_vote_quantity.json', 'w', encoding='utf-8') as f:
+            json.dump(result_list, f, default=str, indent=4, ensure_ascii=False)
+
+        return pd.DataFrame(result_list)
 
     def show_votes_by_year(self):
         result = self.collection.aggregate([
             {"$unwind": "$votes"},
             {"$group": {
-                "_id": "$votes.year",
+                "_id": {"$toInt": "$votes.year"},
                 "yearSum": {"$sum": 1}
             }},
             {"$sort": {"yearSum": -1}}
         ])
-        return pd.DataFrame(list(result))
+        result_list = list(result)
+        with open('result_show_votes_by_year.json', 'w', encoding='utf-8') as f:
+            json.dump(result_list, f, default=str, indent=4, ensure_ascii=False)
+
+        return pd.DataFrame(result_list)
 
     def info(self):
         result = self.collection.aggregate([
@@ -150,7 +166,7 @@ class VotesRanked:
 
     def quantity_votes_bar_graph(self):
         data = self.show_vote_quantity()
-        fig_histogram = px.bar(data, x="_id", y="totalVotes", title="Total Score por Filme",
+        fig_histogram = px.bar(data, x="_id", y="totalVotes", title="Quantidade votos por Filme",
                                labels={"_id": "Filme", "totalScore": "Total Score"})
         fig_histogram.update_layout(xaxis_title='Pontuação', yaxis_title='Frequência')
         fig_histogram.show()

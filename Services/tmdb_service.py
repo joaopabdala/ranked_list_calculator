@@ -1,6 +1,8 @@
 import requests
 from pprint import pprint
 from datetime import datetime
+import os
+# from Services import env_loader
 
 
 class TMDB:
@@ -31,7 +33,7 @@ class TMDB:
         tmdb_portuguese_title = response_json['results'][0]['title']
         date = response_json['results'][0]['release_date']
         date = datetime.strptime(date, "%Y-%m-%d") if date != '' else None
-        tmdb_year = getattr(date, 'year', None)
+        tmdb_year = int(date.year) if date else None
 
         content = [{
             "tmdb_title": tmdb_title,
